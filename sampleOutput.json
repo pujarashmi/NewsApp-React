@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": null,
+            "title": "Musical-Premiere: Münchner klatschen für Bullys Apachen | Regional",
+            "description": "München –  Im Deutschen Theater gibt's  Bully Herbigs Kultfilm „Der Schuh des Manitu“ nun als Musical.",
+            "url": "http://www.bild.de/regional/muenchen/muenchen-aktuell/musical-premiere-muenchner-klatschen-fuer-bullys-apachen-77964580.bild.html",
+            "urlToImage": "https://images.bild.de/61688ef61d3cfc310e76963f/3f680a9851b16a545d83c93d88d9257c/1/3?w=1280",
+            "publishedAt": "2021-10-15T05:16:08Z",
+            "content": "München Silberbüchse, Blutsbrüder und Ohrwürmer. Im Deutschen Theater singt der Indianer.\r\nBully Herbigs Kultfilm Der Schuh des Manitu läuft für drei Monate als Musical in München. Die Besucher lache… [+766 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Tom McIlroy",
+            "title": "Exorcist trilogy threatens to move to US over Aussie tax change",
+            "description": "Pressure is building on the Morrison government over changes to tax offsets designed to support major film and TV productions in Australia",
+            "url": "http://www.afr.com/politics/federal/exorcist-trilogy-threatens-to-move-to-us-over-aussie-tax-change-20211015-p5908l",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.5068%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_784%2C$y_292/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/fbb65921fb9832cc5ac2e4ba5f74b95b3f26193e",
+            "publishedAt": "2021-10-15T04:20:19Z",
+            "content": "A Blumhouse spokesman said the rebate changes were concerning and could see Australia lose work and local jobs.\r\nIn Los Angeles, the consensus is that if the Australian PDV threshold does change, we … [+2371 chars]"
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "Christopher Mathias, Ryan J. Reilly",
+            "title": "He Attacked Cops At The Capitol. The FBI Interviewed Him. Then He Rejoined The Army.",
+            "description": "James Mault was caught on film attacking officers during the Jan. 6 attack and lost his civilian job. So he rejoined the military while under FBI investigation.",
+            "url": "https://www.huffpost.com/entry/james-mault-capitol-attack-trump-army-military_n_6168753de4b065a54971c1d6",
+            "urlToImage": "https://img.huffingtonpost.com/asset/61688092280000282aa73529.jpg?cache=osLaGheCSD&ops=1778_1000",
+            "publishedAt": "2021-10-14T19:44:31Z",
+            "content": "James Mault was photographed spraying police with a chemical agent while officers were under siege by a violent mob of Trump supporters at the U.S. Capitol on Jan. 6.\r\nOn Jan. 6, 2021, a Donald Trump… [+5074 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "Fujifilm's New Instax Printer Cranks Out Big, Glorious Photos",
+            "description": "Fujifilm's latest standalone smart printer uses their largest instant film for bigger, better prints.",
+            "url": "https://www.wired.com/review/fujifilm-instax-link-wide-printer/",
+            "urlToImage": "https://media.wired.com/photos/6167128bff57abbf423bc530/191:100/w_1280,c_limit/Gear-instax-link-wide-angle-SOURCE-fujifilm.jpg",
+            "publishedAt": "2021-10-14T12:07:47.7504312Z",
+            "content": "I can't lie: I am a huge fan of Fujifilm Instax printers. I like the Instax cameras too, but those have limited use cases, and most of the time I don't want to carry it around. I prefer to shoot with… [+2960 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Simon Lesage",
+            "title": "Vidéo. Pourquoi les musiques de James Bond se ressemblent autant ?",
+            "description": "Vidéo - De nombreux thèmes d’introduction des films James Bond portent en eux un motif musical vieux de près de soixante ans, qui fait office de ligne conductrice.",
+            "url": "https://www.lemonde.fr/culture/video/2021/10/03/pourquoi-les-musiques-de-james-bond-se-ressemblent-autant_6096948_3246.html",
+            "urlToImage": "https://img.lemde.fr/2020/09/08/0/0/1920/960/1440/720/60/0/6c16a32_548048022-vignettenue.png",
+            "publishedAt": "2021-10-03T11:30:13Z",
+            "content": "Les thèmes musicaux de James Bond ont un secret vieux de presque soixante ans. Tout le monde saccorde sur le fait quils se ressemblent, mais il est plus difficile didentifier pourquoi.\r\nLa ressemblan… [+558 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC",
+            "title": "Bam Margera, who was fired from latest \"Jackass' film, sues to stop its release",
+            "description": "\"Jackass\" creator Bam Margera filed a lawsuit to stop the film \"Jackass Forever\" from being released, alleging he was illegally fired after a drug test showed he was taking prescription Adderall.",
+            "url": "https://www.nbcnews.com/news/us-news/bam-margera-who-was-fired-latest-jackass-film-sues-stop-n1276383",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_32/3497868/210809-bam-margera-ew-655p.jpg",
+            "publishedAt": "2021-08-10T01:11:49Z",
+            "content": "A \"Jackass\" creator who says he was illegally fired from the franchise's fourth film is suing to stop the October release of \"Jackass Forever.\"\r\nBam Margera, who helped create the video series that i… [+1820 chars]"
+        },
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Megan Farokhmanesh",
+            "title": "Barack and Michelle Obama will produce films and TV shows for Netflix",
+            "description": "President Barack Obama and former first lady Michelle Obama will begin producing content for Netflix under their company Higher Ground Productions. According to Netflix, the two will create “a diverse mix of content, including the potential for scripted serie…",
+            "url": "https://www.theverge.com/2018/5/21/17376654/barack-obama-michelle-obama-netflix-shows",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/wE_bHpwejet8TrcISQeB4Hs0mT4=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10902093/917433542.jpg.jpg",
+            "publishedAt": "2018-05-21T16:40:09Z",
+            "content": "The couple has signed a multiyear agreement\r\nPhoto by Mark Wilson/Getty Images\r\nPresident Barack Obama and former first lady Michelle Obama will begin producing content for Netflix under their compan… [+1080 chars]"
+        }
+    ]
+}
