@@ -1,9 +1,8 @@
 //rcep
-import React, { Component } from 'react';
+import React from 'react';
 import {Link} from "react-router-dom";
 
-export class NavBar extends Component {
-      render() {
+const NavBar = ()=>{
         return (
             <div>
                 <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -47,7 +46,6 @@ export class NavBar extends Component {
                 </nav>
             </div>
         )
-    }
 }
 
 export default NavBar
